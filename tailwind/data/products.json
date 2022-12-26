@@ -1,0 +1,162 @@
+[
+    {
+      "id": "PRD01",
+      "referencia": "Arroz Roa",
+      "disponible": 4,
+      "precio": 3000,
+      "detalles": "Delicioso arroz de marca Roa que va perfecto para tus comidas",
+      "imagen": "./resources/assets/images/roa.jpg"
+    },
+    {
+      "id": "PRD02",
+      "referencia": "Maggi",
+      "disponible": 100,
+      "precio": 1000,
+      "detalles": "Para echarle a tus calditos",
+      "imagen": "./resources/assets/images/maggi.jpg"
+    },
+    {
+      "id": "PRD03",
+      "referencia": "Chocoso",
+      "disponible": 500,
+      "precio": 1800,
+      "detalles": "Rico pastel sabor chocolate",
+      "imagen": "./resources/assets/images/chocoso.jpg"
+    },
+    {
+        "id": "PRD04",
+        "referencia": "Leche Colanta",
+        "disponible": 200,
+        "precio": 3000,
+        "detalles": "Leche Colanta sabe más",
+        "imagen": "./resources/assets/images/colanta.jpg"
+    },
+    {
+        "id": "PRD05",
+        "referencia": "Yogurt Griego",
+        "disponible": 300,
+        "precio": 2000,
+        "detalles": "Yogurt con buena proteína",
+        "imagen": "./resources/assets/images/griego.png"
+    },
+    {
+        "id": "PRD06",
+        "referencia": "Mantequilla Maní HMM",
+        "disponible": 30,
+        "precio": 7000,
+        "detalles": "Para acompañar el desayuno",
+        "imagen": "./resources/assets/images/mani.jpg"
+    },
+    {
+        "id": "PRD07",
+        "referencia": "Coca Cola",
+        "disponible": 100,
+        "precio": 2500,
+        "detalles": "Gaseosa Negra para cualquier ocasión",
+        "imagen": "./resources/assets/images/coca.jpg"
+    },
+    {
+        "id": "PRD08",
+        "referencia": "Tarrito Rojo",
+        "disponible": 300,
+        "precio":1500,
+        "detalles": "Para crecer sano",
+        "imagen": "./resources/assets/images/tarrojpg.jpg"
+    },
+    {
+        "id": "PRD09",
+        "referencia": "Cereal Zucaritas Caja",
+        "disponible": 30,
+        "precio": 8000,
+        "detalles": "una caja de cereal azucarado para el desayuno",
+        "imagen": "./resources/assets/images/zucaritas.jpg"
+    },
+    {
+        "id": "PRD10",
+        "referencia": "Papas Margarita Limón",
+        "disponible": 500,
+        "precio": 1800,
+        "detalles": "Papas sabor Limon",
+        "imagen": "./resources/assets/images/mlimon.jpg"
+    },
+    {
+        "id": "PRD11",
+        "referencia": "Papas Margarita Pollo",
+        "disponible": 500,
+        "precio": 1800,
+        "detalles": "Papas sabor Pollo",
+        "imagen": "./resources/assets/images/mpollo.jpg"
+    },
+    {
+        "id": "PRD12",
+        "referencia": "Papas Margarita Naturales",
+        "disponible": 300,
+        "precio": 1800,
+        "detalles": "Papas sabor Natural",
+        "imagen": "./resources/assets/images/mnatu.png"
+    },
+    {
+        "id": "PRD13",
+        "referencia": "Helado Sabor Galleta",
+        "disponible": 100,
+        "precio": 2000,
+        "detalles": "Helado con delicioso sabor a galleta",
+        "imagen": "./resources/assets/images/hgalleta.jpg"
+    },
+    {
+        "id": "PRD14",
+        "referencia": "Remolacha",
+        "disponible": 50,
+        "precio": 1000,
+        "detalles": "1 porción de rica remolacha",
+        "imagen": "./resources/assets/images/remolacha.png"
+    },
+    {
+        "id": "PRD15",
+        "referencia": "Espinaca",
+        "disponible": 20,
+        "precio": 500,
+        "detalles": "Espinaca para estar como Popeye",
+        "imagen": "./resources/assets/images/espinaca.jpg"
+    },
+    {
+        "id": "PRD16",
+        "referencia": "Suavitel",
+        "disponible": 80,
+        "precio": 3500,
+        "detalles": "1 Litro de Suavitel para sentir el olor de mamá o algo así",
+        "imagen": "./resources/assets/images/suavitel.jpg"
+    },
+    {
+        "id": "PRD17",
+        "referencia": "Jabón Rey",
+        "disponible": 30,
+        "precio": 3000,
+        "detalles": "Lava todo hasta se puede bañar con él",
+        "imagen": "./resources/assets/images/rey.jpg"
+    },
+    {
+        "id": "PRD18",
+        "referencia": "Galletas Ducales",
+        "disponible": 50,
+        "precio": 3000,
+        "detalles": "Galletas con sabor dulce",
+        "imagen": "./resources/assets/images/ducales.jpg"
+    },
+    {
+        "id": "PRD19",
+        "referencia": "Mantequilla Colanta",
+        "disponible":68 ,
+        "precio": 2000,
+        "detalles": "Deliciosa mantequilla marca Colanta",
+        "imagen": "./resources/assets/images/mcolanta.jpg"
+    },
+    {
+        "id": "PRD20",
+        "referencia": "Gaseosa Postobón Uva",
+        "disponible": 40,
+        "precio": 3000,
+        "detalles": "Gaseosa 400 Mili-litros sabor Uva",
+        "imagen": "./resources/assets/images/uva.jpg"
+    }
+]
